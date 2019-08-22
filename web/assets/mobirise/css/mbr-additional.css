@@ -3141,3 +3141,28 @@ body {
 .cid-rzSu2V8qvc .dropdown-item:hover {
   color: #0f7699 !important;
 }
+.cid-rzTpYHSBhZ {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rzTpYHSBhZ .testimonial-text {
+  font-style: italic;
+  color: #232323;
+  font-weight: 300;
+}
+.cid-rzTpYHSBhZ .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-rzTpYHSBhZ .mbr-author-desc {
+  color: #c1c1c1;
+}
+@media (max-width: 991px) {
+  .cid-rzTpYHSBhZ .mbr-figure,
+  .cid-rzTpYHSBhZ img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+}
